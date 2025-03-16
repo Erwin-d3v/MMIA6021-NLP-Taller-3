@@ -36,7 +36,7 @@ Esta aplicación permite traducir texto entre inglés y español utilizando el m
    
    ```bash
    python -m venv flask_venv
-   source flask_venv/bin/activate  # En Windows: venv\Scripts\activate
+   source flask_venv/bin/activate  # En Windows: flask_venv\Scripts\activate
    ```
 
 3. Instala las dependencias:
@@ -44,7 +44,8 @@ Esta aplicación permite traducir texto entre inglés y español utilizando el m
    ```bash
    pip install flask flask-cors transformers torch
    
-   # Tambien puede ser: pip install -r requirements.txt
+   # Tambien puede ser:
+   pip install -r requirements.txt
    ```
 
 4. Asegúrate de crear la carpeta "templates" y añadir el archivo HTML:
