@@ -68,7 +68,7 @@ Esta aplicación permite traducir texto entre inglés y español utilizando el m
 
 4. Para cambiar la dirección de traducción (español→inglés o inglés→español), utiliza el botón correspondiente.
    
-   ![93119c34-26be-4dba-90d7-1cc19679e28c](file:///93119c34-26be-4dba-90d7-1cc19679e28c.png)
+   ![93119c34-26be-4dba-90d7-1cc19679e28c](https://github.com/Erwin-d3v/MMIA6021-NLP-Taller-3/blob/main/screen_capture.png)
 
 ## 🔄 Flujo de trabajo
 
